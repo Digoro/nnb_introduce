@@ -34434,34 +34434,24 @@ a.u-link.u-text-hover-grey-90:hover {
   margin: -88px 141px 0 582px;
 }
 
-.u-footer .u-text-3 {
-  margin: 20px 447px 0 582px;
-}
-
 .u-footer .u-btn-1 {
   background-image: none;
   font-size: 0.875rem;
+  margin: 9px 509px 0 auto;
   padding: 0;
 }
 
 .u-footer .u-btn-2 {
   background-image: none;
   font-size: 0.875rem;
-  margin: -22px 426px 0 auto;
-  padding: 0;
-}
-
-.u-footer .u-btn-3 {
-  background-image: none;
-  font-size: 0.875rem;
-  margin: -22px 301px 55px auto;
+  margin: -22px 398px 60px auto;
   padding: 0;
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
     width: 417px;
-    margin-left: 44px;
     margin-right: 479px;
+    margin-left: 44px;
   }
 
   .u-footer .u-text-2 {
@@ -34470,19 +34460,12 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: 482px;
   }
 
-  .u-footer .u-text-3 {
-    margin-right: 347px;
-    margin-left: 482px;
+  .u-footer .u-btn-1 {
+    margin-right: 409px;
   }
 
   .u-footer .u-btn-2 {
-    margin-top: -22px;
-    margin-right: 330px;
-  }
-
-  .u-footer .u-btn-3 {
-    margin-top: -22px;
-    margin-right: 213px;
+    margin-right: 291px;
   }
 }
 @media (max-width: 991px) {
@@ -34504,21 +34487,14 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: 0;
   }
 
-  .u-footer .u-text-3 {
-    width: auto;
+  .u-footer .u-btn-1 {
     margin-top: 29px;
-    margin-right: 609px;
-    margin-left: 0;
-  }
-
-  .u-footer .u-btn-2 {
-    margin-top: 0;
     margin-right: auto;
     margin-left: 0;
   }
 
-  .u-footer .u-btn-3 {
-    margin: 0 auto 28px 0;
+  .u-footer .u-btn-2 {
+    margin: 0 auto 51px 0;
   }
 }
 @media (max-width: 767px) {
@@ -34530,11 +34506,7 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 123px;
   }
 
-  .u-footer .u-text-3 {
-    margin-right: 429px;
-  }
-
-  .u-footer .u-btn-2 {
+  .u-footer .u-btn-1 {
     margin-right: 491px;
   }
 }
@@ -34553,18 +34525,14 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-right: 0;
   }
 
-  .u-footer .u-text-3 {
+  .u-footer .u-btn-1 {
     margin-top: 26px;
-    margin-right: 229px;
-  }
-
-  .u-footer .u-btn-2 {
     margin-right: auto;
   }
 
-  .u-footer .u-btn-3 {
+  .u-footer .u-btn-2 {
     margin-top: 4px;
-    margin-bottom: 26px;
+    margin-bottom: 48px;
   }
 }
 
